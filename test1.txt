@@ -2,3 +2,4 @@
  1 file changed, 1 insertion(+)
  create mode 100644 test1.txt
 Full name: John Carlo Dionisio
+About me: I am Computer Science student who enjoy programming.
